@@ -31,7 +31,7 @@ let ButtonDiv=styled.div`
     border-radius:2vw;
 `;
 let IconDiv=styled.div`
-padding:1vh;
+// padding:1vh;
 cursor:pointer;
 // border:1px solid;
 `;
